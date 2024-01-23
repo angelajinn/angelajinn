@@ -1,4 +1,4 @@
-### Hi there 👋
+### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Playfair+Display&pause=1000&color=B1D6F7&random=false&width=435&lines=hi+i'm+angela+%E2%9C%A7)](https://git.io/typing-svg)
 
 <!--
 **angelajinn/angelajinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
