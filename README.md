@@ -14,7 +14,7 @@
 🫧 Currently working on 
 [Whisk: Recipe Analyzer Project](/github.com/angelajinn/recipe)
 <br>
-🌊 Exploring data science, flask, html, and css
+🌊 Exploring data analysis, flask, html, and css
 <br>
 🎧 Here to combine my love for aesthetics and coding :)
 
