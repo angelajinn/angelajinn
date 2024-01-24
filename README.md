@@ -3,6 +3,13 @@
   <h5> Computer Science at the University of Waterloo</h5>
 </div>
 
+<div align="right">
+<h6>my languages and tools </h6>
+<img align="right" src="https://github.com/angelajinn/angelajinn/blob/main/Untitled_Artwork.png" width = 500>
+</div>
+
+<br><br>
+
 🐋 Aspiring to specialize in bioinformatics
 <br>
 🫧 Currently working on 
@@ -12,18 +19,6 @@
 <br>
 🎧 Here to combine my love for aesthetics and coding :)
 
-<p style="text-align:right;">
-<img height="64" width="64" src="https://cdn.simpleicons.org/python"/WHITE />
-<img height="64" width="64" src="https://cdn.simpleicons.org/postgresql" />
-<img height="64" width="64" src="https://cdn.simpleicons.org/c" />
-<img height="64" width="64" src="https://cdn.simpleicons.org/cplusplus/#FFFFFF" />
-<img height="64" width="64" src="https://cdn.simpleicons.org/racket/#FFFFFF" />
-<img height="64" width="64" src="https://cdn.simpleicons.org/html5/#FFFFFF" />
-<img height="64" width="64" src="https://cdn.simpleicons.org/css3/#FFFFFF" />
-<img height="64" width="64" src="https://cdn.simpleicons.org/linux/#FFFFFF" />
-<img height="64" width="64" src="https://cdn.simpleicons.org/visualstudiocode/#FFFFFF" />
-<img height="64" width="64" src="https://cdn.simpleicons.org/pycharm/#FFFFFF" />
-</p>
 
 
 
@@ -43,4 +38,18 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<p style="text-align:right;">
+<img height="64" width="64" src="https://cdn.simpleicons.org/python"/WHITE />
+<img height="64" width="64" src="https://cdn.simpleicons.org/postgresql" />
+<img height="64" width="64" src="https://cdn.simpleicons.org/c" />
+<img height="64" width="64" src="https://cdn.simpleicons.org/cplusplus/#FFFFFF" />
+<img height="64" width="64" src="https://cdn.simpleicons.org/racket/#FFFFFF" />
+<img height="64" width="64" src="https://cdn.simpleicons.org/html5/#FFFFFF" />
+<img height="64" width="64" src="https://cdn.simpleicons.org/css3/#FFFFFF" />
+<img height="64" width="64" src="https://cdn.simpleicons.org/linux/#FFFFFF" />
+<img height="64" width="64" src="https://cdn.simpleicons.org/visualstudiocode/#FFFFFF" />
+<img height="64" width="64" src="https://cdn.simpleicons.org/pycharm/#FFFFFF" />
+</p>
+
 -->
