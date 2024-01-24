@@ -3,7 +3,11 @@
   <h5> Computer Science at the University of Waterloo</h5>
 </div>
 
-<div align="center">
+
+
+<img align="right" src="https://github.com/angelajinn/angelajinn/blob/main/IMG_1278.png" width = 325>
+
+<br>
 
 🐋 Aspiring to specialize in bioinformatics
 <br>
@@ -14,8 +18,7 @@
 <br>
 🎧 Here to combine my love for aesthetics and coding :)
 
-<img src="https://github.com/angelajinn/angelajinn/blob/main/IMG_1278.png" width = 300>
-</div>
+
 
 
 
