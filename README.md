@@ -3,12 +3,7 @@
   <h5> Computer Science at the University of Waterloo</h5>
 </div>
 
-<div align="right">
-<h6>my languages and tools </h6>
-<img align="right" src="https://github.com/angelajinn/angelajinn/blob/main/Untitled_Artwork.png" width = 500>
-</div>
-
-<br><br>
+<div align="center">
 
 🐋 Aspiring to specialize in bioinformatics
 <br>
@@ -18,6 +13,10 @@
 🌊 Exploring data science, flask, html, and css
 <br>
 🎧 Here to combine my love for aesthetics and coding :)
+
+<img src="https://github.com/angelajinn/angelajinn/blob/main/IMG_1278.png" width = 300>
+</div>
+
 
 
 
