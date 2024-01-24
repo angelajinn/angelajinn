@@ -1,7 +1,21 @@
 <div align="center">
-  <h2><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=30&pause=500&color=6BB0F7&center=true&vCenter=true&random=false&width=435&height=33&lines=Hey+I'm+Angela+%E2%9C%A7" /></a></h2>
-  <h5> 1B Computer Science student at the University of Waterloo</h5>
+  <h2><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=30&pause=500&color=6BB0F7&center=true&vCenter=true&random=false&width=435&height=33&lines=Hey+I'm+Angela+%E2%9C%A7"/></a></h2>
+  <h5> Computer Science at the University of Waterloo</h5>
 </div>
+
+
+<img align="right" src="https://github.com/angelajinn/angelajinn/blob/main/snoopy" width=150></img>
+<div align="left">
+<br>
+🐋 Aspiring to specialize in bioinformatics
+<br>
+🫧 Currently working on _Whisk: Recipe Analyzer Project_
+<br>
+🌊 Exploring data science, flask, html, and css
+<br>
+🎧 Here to expand my coding skills :)
+</div>
+
 
 
 <!--
