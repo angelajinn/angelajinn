@@ -12,7 +12,7 @@
 🐋 Aspiring to specialize in bioinformatics
 <br>
 🫧 Currently working on 
-[Whisk: Recipe Analyzer Project](/github.com/angelajinn/recipe)
+[Whisk: Recipe Analyzer Project](https://github.com/angelajinn/recipe)
 <br>
 🌊 Exploring data analysis, flask, html, and css
 <br>
