@@ -5,7 +5,6 @@
 
 
 
-<img align="right" src="https://github.com/angelajinn/angelajinn/blob/main/IMG_1278.png" width = 325>
 
 <br>
 
